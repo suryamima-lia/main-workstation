@@ -1,3 +1,3 @@
 # main-workstation
--dont mind me
+-dont mind me,
 some things are taken from geld.
